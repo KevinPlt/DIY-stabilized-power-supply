@@ -25,9 +25,13 @@ The aim of the project is to make a wood box in order to create a stabilized pow
 - Computed toolpath (gcode) with makercam software (makercam.swf) by defining every operations (this software takes in input only SVG files and it is deprecated)
 - Execute gcode for each part with [bCNC](https://github.com/vlachoudis/bCNC) with Shapeoko 3
 
-## Connections into the wood box
 
+
+
+## Connections into the wood box
 ![Schematic diagram](docs/Schematic_Diagram_diy-stabilized-power-supply_2022-04-27.png)
+
+
 
 ## Thanks
 To [Vasilis Vlachoudis](https://github.com/vlachoudis) having created the bCNC project.
