@@ -28,7 +28,8 @@ The aim of the project is to make a wood box in order to create a stabilized pow
 
 
 
-## Connections into the wood box
+
+## Connections into the wood box
 
 This is a schematic diagram. It shows the idea how it is connected inside the wood box.
 
