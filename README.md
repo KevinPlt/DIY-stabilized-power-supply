@@ -19,7 +19,7 @@ The aim of the project is to make a wood box in order to create a stabilized pow
 
 
 ## Mechanism
-- Edited with Solidworks 2014
+- Edited with Solidworks 2017
 - Exported from Solidworks to DXF each part of the box
 - Exported from [Inkscape](https://github.com/inkscape/inkscape) to SVG each part
 - Computed toolpath (gcode) with makercam software (makercam.swf) by defining every operations (this software takes in input only SVG files and it is deprecated)
