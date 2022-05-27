@@ -18,8 +18,8 @@ The aim of the project is to make a wood box in order to create a stabilized pow
 
 ## Assembly Modeling
 Made with Solidworks 2017
-![Screenshot of the assembly in isometric view](docs/assembly.jpg)
-![Screenshot of the inside of the assembly](docs/inside.jpg)
+![Screenshot of the assembly in isometric view](docs/images/assembly.jpg)
+![Screenshot of the inside of the assembly](docs/images/inside.jpg)
 
 
 
