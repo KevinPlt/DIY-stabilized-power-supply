@@ -5,16 +5,21 @@
 The aim of the project is to make a wood box in order to create a stabilized power supply from an old ATX PC power supply with a lot of accessible voltages. It is also recommended to have an adjustable power supply, so it will embed a system to do this.
 
 ## Prerequisite
-- An old ATX PC power supply
+- An old ATX PC power supply (330W)
 - 6 red [banana plugs](https://fr.aliexpress.com/item/32803531060.html?spm=a2g0o.order_list.0.0.29285e5bcCjFoV&gatewayAdapt=glo2fra) 
 - 6 black banana plugs
 - Adjustable power suply controller : [DPH 5005](https://fr.aliexpress.com/item/32840324731.html?spm=a2g0o.order_list.0.0.29285e5bcCjFoV&gatewayAdapt=glo2fra)
-- 1 toggle switch (SPDT)
-- 1 LED
-- 1 resistor
+- 1 toggle switch ([SPDT](https://fr.aliexpress.com/item/32681503480.html?spm=a2g0o.order_list.0.0.5c265e5b4IiR1h&gatewayAdapt=glo2fra))
+- 1 LED (in my setup it is blue)
+- 1 resistor (1 kohm)
 - wires
+- MDF wood 5mm thick
 
 
+## Assembly Modeling
+Made with Solidworks 2017
+![Screenshot of the assembly in isometric view](docs/assembly.jpg)
+![Screenshot of the inside of the assembly](docs/inside.jpg)
 
 
 
