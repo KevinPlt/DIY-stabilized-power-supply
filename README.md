@@ -5,6 +5,17 @@
 The aim of the project is to make a wood box in order to create a stabilized power supply from an old ATX PC power supply with a lot of accessible voltages. It is also recommended to have an adjustable power supply, so it will embed a system to do this.
 
 ## Prerequisite
+### For the wood box
+- MDF wood 5mm thick
+- wood cleats
+- 2 hinges
+- 8 M3x6mm philips metal screws
+- 8 M3 nuts
+- 8 M3 washers
+- wood screws
+- clear sticky paper for the front silkscreen
+
+### For the features
 - An old ATX PC power supply (330W)
 - 6 red [banana plugs](https://fr.aliexpress.com/item/32803531060.html?spm=a2g0o.order_list.0.0.29285e5bcCjFoV&gatewayAdapt=glo2fra) 
 - 6 black banana plugs
@@ -13,11 +24,11 @@ The aim of the project is to make a wood box in order to create a stabilized pow
 - 1 LED (in my setup it is blue)
 - 1 resistor (1 kohm)
 - wires
-- MDF wood 5mm thick
 
 
 ## Assembly Modeling
-Made with Solidworks 2017
+Made with Solidworks 2017.
+In this assembly, the wood cleats are not shown.
 ![Screenshot of the assembly in isometric view](docs/images/assembly.jpg)
 ![Screenshot of the inside of the assembly](docs/images/inside.jpg)
 
@@ -31,7 +42,12 @@ Made with Solidworks 2017
 - Execute gcode for each part with [bCNC](https://github.com/vlachoudis/bCNC) with Shapeoko 3
 
 
+## Final Assembly
+Dimensions of the wood box : (WidthxHeightxDepth) 261x124x330mm
 
+![Wood box isometric photo](docs/images/isometric_view_photo.JPG)
+![Wood bow front photo](docs/images/front_view_photo.JPG)
+![Wood box open photo](docs/images/open_view_photo.JPG)
 
 
 ## Connections into the wood box
