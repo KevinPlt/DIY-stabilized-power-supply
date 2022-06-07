@@ -9,7 +9,7 @@ The aim of the project is to make a wood box in order to create a stabilized pow
 - MDF wood 5mm thick
 - wood cleats
 - 2 hinges
-- 8 M3x6mm philips metal screws
+- 8 M3x6mm philips metal screws ([M3 kit](https://s.click.aliexpress.com/e/_9ykpjx))
 - 8 M3 nuts
 - 8 M3 washers
 - wood screws
@@ -17,12 +17,12 @@ The aim of the project is to make a wood box in order to create a stabilized pow
 
 ### For the features
 - An old ATX PC power supply (330W)
-- 6 red [banana plugs](https://fr.aliexpress.com/item/32803531060.html?spm=a2g0o.order_list.0.0.29285e5bcCjFoV&gatewayAdapt=glo2fra) 
+- 6 red [banana plugs](https://s.click.aliexpress.com/e/_AswMil) 
 - 6 black banana plugs
-- Adjustable power suply controller : [DPH 5005](https://fr.aliexpress.com/item/32840324731.html?spm=a2g0o.order_list.0.0.29285e5bcCjFoV&gatewayAdapt=glo2fra)
-- 1 toggle switch ([SPDT](https://fr.aliexpress.com/item/32681503480.html?spm=a2g0o.order_list.0.0.5c265e5b4IiR1h&gatewayAdapt=glo2fra))
-- 1 LED (in my setup it is blue)
-- 1 resistor (1 kohm)
+- Adjustable power suply controller : [DPH 5005 with USB communication](https://s.click.aliexpress.com/e/_AbeLhP)
+- 1 toggle switch ([SPDT](https://s.click.aliexpress.com/e/_Aqw6Pf))
+- 1 LED (in my setup it is blue) ([LED kit](https://s.click.aliexpress.com/e/_A9tfNf))
+- 1 resistor (1 kohm) ([Resistor kit](https://s.click.aliexpress.com/e/_Acxarr))
 - wires
 
 
